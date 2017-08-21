@@ -1,5 +1,5 @@
 package sorting;
-
+//this is a comment
 public class bubblesort {
 
 	static void bubbleSort(int[] arr) {  
@@ -34,5 +34,5 @@ public class bubblesort {
                         System.out.print(arr[i] + " ");  
                 }  
    
-        }  
+    }
 }  
